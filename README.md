@@ -57,7 +57,7 @@ solochain的介绍和使用说明地址：https://punica.ont.io/docs/soloChain/#
 	{"name":"e5315938-9770-44b6-897f-5b9d765e679a","defaultOntid":"","defaultAccountAddress":"AaKoXDSxDi8DGqBxDtbehxcu4KnEiJvXvY","createTime":"2018-11-23T08:58:35.746Z","version":"1.0","scrypt":{"n":4096,"r":8,"p":8,"dkLen":64},"identities":[],"accounts":[{"address":"AaKoXDSxDi8DGqBxDtbehxcu4KnEiJvXvY","label":"e339c6fa-9cf0-4ab8-83d1-b385b65dfb0a","lock":false,"algorithm":"ECDSA","parameters":{"curve":"P-256"},"key":"I7PO2f9vZHCr1rMWKYRMxFsLFGTh/vIT+/MV5nksRG4hn5ezw8F7kBJEFEMXbDXL","enc-alg":"aes-256-gcm","hash":"sha256","salt":"UD78O129t7aKXdSiTTQjKg==","isDefault":false,"publicKey":"0320c963f95026b6cdd17f2b6679689fea235894d4c8a3a48069e1c97561591a56","signatureScheme":"SHA256withECDSA"}],"extra":null}
 将此内容保存为`wallet.dat`，然后选择登陆，密码为`123456`。在smartX工具里面，创建`Python`项目，然后使用OEP4数字资产模板，编写完成之后选择编译，将编译成功后的AVM字节码存储备用。
 
-!(https://github.com/MySelfChain/picture/blob/master/smartX.png)
+!(https://github.com/MySelfChain/picture/blob/master/smartX.png?raw=true)
 
 
 4.数字资产功能介绍
